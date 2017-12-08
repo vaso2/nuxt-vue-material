@@ -9,6 +9,6 @@
     "access": "public"
   },
   "dependencies": {
-    "vue-material": "^1.0.0-beta-7"
+    "vue-material": "1.0.0-beta-7"
   }
 }
