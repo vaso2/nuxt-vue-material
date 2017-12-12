@@ -35,4 +35,4 @@ Adds default vue-material theme
 
 [MIT License](./LICENSE)
 
-Copyright (c) Galley Web Production
+Copyright (c) [Galley Web Production](https://galley.online/)
