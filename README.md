@@ -2,7 +2,7 @@
 [![npm (scoped with tag)](https://img.shields.io/npm/v/nuxt-vue-material/latest.svg?style=flat-square)](https://npmjs.com/package/nuxt-vue-material)
 [![npm](https://img.shields.io/npm/dt/nuxt-vue-material.svg?style=flat-square)](https://npmjs.com/package/nuxt-vue-material)
 
-> Join Nuxt and [vue-material](https://github.com/vuematerial/vue-material) Material Component Framework.
+> Plugin to join nuxt and [vue-material](https://github.com/vuematerial/vue-material) Material Component Framework.
 
 [📖 **Release Notes**](./CHANGELOG.md)
 
