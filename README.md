@@ -6,10 +6,6 @@
 
 [📖 **Release Notes**](./CHANGELOG.md)
 
-## Features
-
-The module features
-
 ## Setup
 - Add `nuxt-vue-material` dependency using npm to your project
 - Add `nuxt-vue-material` to `modules` section of `nuxt.config.js`
