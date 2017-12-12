@@ -1,14 +1,32 @@
 {
   "name": "nuxt-vue-material",
   "version": "0.0.2",
+  "description": "Module to join nuxt and vue-material framework",
   "license": "MIT",
-  "main": "index.js",
+  "contributors": [
+    {
+      "name": "vaso2 <head@galley.online>"
+    }
+  ],
+  "main": "lib/module.js",
   "repository": "https://github.com/vaso2/nuxt-vue-material",
   "homepage": "https://github.com/vaso2/nuxt-vue-material/tree/master",
   "publishConfig": {
     "access": "public"
   },
+  "scripts": {
+    "lint": "eslint lib test"
+  },
+  "eslintIgnore": [
+    "lib/templates/*.*"
+  ],
+  "files": [
+    "lib"
+  ],
   "dependencies": {
     "vue-material": "1.0.0-beta-7"
+  },
+  "devDependencies": {
+    "nuxt-module-builder": "latest"
   }
 }
