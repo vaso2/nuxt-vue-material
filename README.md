@@ -4,8 +4,6 @@
 
 > Plugin to join nuxt and [vue-material](https://github.com/vuematerial/vue-material) framework.
 
-[📖 **Release Notes**](./CHANGELOG.md)
-
 ## Setup
 - Add `nuxt-vue-material` dependency using npm to your project
 - Add `nuxt-vue-material` to `modules` section of `nuxt.config.js`
@@ -25,14 +23,17 @@
 
 ### `css`
 - Default: `true`
-Adds `vue-material.min.css` and theme css to the start of `options.css[]`
+Adds `vue-material.min.css` and `theme` css to the start of `options.css[]`
 
 ### `theme`
+Sets vue-material theme
 - Default: `default`
-Adds default vue-material theme
+- Options: `default`, `default-dark`, `black-green-dark`, `black-green-light`
+
+##Changelog
+[**Release Notes**](./CHANGELOG.md)
 
 ## License
-
-[MIT License](./LICENSE)
+MIT
 
 Copyright (c) [Galley Web Production](https://galley.online/)
