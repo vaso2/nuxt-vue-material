@@ -39,4 +39,4 @@ Sets vue-material theme
 [Release Notes](./CHANGELOG.md)
 
 ## License
-MIT,**made by [Galley Web Production](https://galley.online/)**
+MIT, made by [**Galley Web Production**](https://galley.online/)
