@@ -10,12 +10,17 @@
 ```js
 {
   modules: [
+    ['nuxt-vue-material', {
+      theme: 'default-dark'
+    }],
+  ]
+  /* OR like this:
+  modules: [
     'nuxt-vue-material'
   ],
-
   vueMaterial: {
     theme: 'default-dark'
-  }
+  }*/
 }
 ```
 
@@ -31,9 +36,7 @@ Sets vue-material theme
 - Options: `default`, `default-dark`, `black-green-dark`, `black-green-light`
 
 ##Changelog
-[**Release Notes**](./CHANGELOG.md)
+[Release Notes](./CHANGELOG.md)
 
 ## License
-MIT
-
-Copyright (c) [Galley Web Production](https://galley.online/)
+MIT,**made by [Galley Web Production](https://galley.online/)**

@@ -1,5 +1,8 @@
 # Change Log
 
+<a name="beta"></a>
+## beta (2018-02-01)
+Updated vue-material dependency to @latest, current 1.0.0-beta-8 post install hook works properly
 <a name="0.0.6"></a>
 ## 0.0.6 (2017-12-14)
 Docs improved
