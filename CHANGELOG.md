@@ -1,7 +1,10 @@
 # Change Log
 
-<a name="beta"></a>
-## beta (2018-02-01)
+<a name="1.1.0"></a>
+## 1.1.0 (2018-02-05)
+Option to include no theme in case you want to use custom
+<a name="1.0.0"></a>
+## 1.0.0 (2018-02-01)
 Updated vue-material dependency to @latest, current 1.0.0-beta-8 post install hook works properly
 <a name="0.0.6"></a>
 ## 0.0.6 (2017-12-14)
