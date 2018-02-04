@@ -34,6 +34,8 @@ Adds `vue-material.min.css` and `theme` css to the start of `options.css[]`
 Sets vue-material theme
 - Default: `default`
 - Options: `default`, `default-dark`, `black-green-dark`, `black-green-light`
+<br/>
+Pass `null` to disable theme in case you're going to use custom one
 
 ##Changelog
 [Release Notes](./CHANGELOG.md)
