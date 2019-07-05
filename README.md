@@ -11,7 +11,8 @@
 {
   modules: [
     ['nuxt-vue-material', {
-      theme: 'default-dark'
+      theme: 'default-dark',
+      components: ['MdDrawer', 'MdRadio', 'MdMenu', 'MdContent', 'MdList', 'MdButton', 'MdToolbar',]
     }],
   ]
   /* OR like this:
@@ -37,6 +38,9 @@ Sets vue-material theme
 <br/>
 Pass `null` to disable theme in case you're going to use custom one
 
+### `components`
+Load only selected components. Will load all framework if empty
+- Default: `[]`
 ##Changelog
 [Release Notes](./CHANGELOG.md)
 
