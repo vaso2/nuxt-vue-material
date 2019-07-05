@@ -1,5 +1,9 @@
 # Change Log
 
+<a name="1.2.0"></a>
+## 1.2.0 (2019-07-05)
+* Updated for vue-material@1.0.0-beta-11 
+* Support for selective component import
 <a name="1.1.0"></a>
 ## 1.1.0 (2018-02-05)
 Option to include no theme in case you want to use custom
