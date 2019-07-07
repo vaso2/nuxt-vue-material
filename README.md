@@ -41,8 +41,9 @@ Pass `null` to disable theme in case you're going to use custom one
 ### `components`
 Load only selected components. Will load all framework if empty
 - Default: `[]`
-##Changelog
+
+## Changelog
 [Release Notes](./CHANGELOG.md)
 
 ## License
-MIT, made by [**Galley Web Production**](https://galley.online/)
+MIT, made by [**#Galley Web Production**](https://galley.online/)
